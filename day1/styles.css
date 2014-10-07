@@ -1,7 +1,6 @@
 header {
     background-color: #cccccc;
-    min-height: 80px;
-    float: left;
+    height: 80px;
     width: 100%;
 }
 footer {
