@@ -1,4 +1,4 @@
-#i Assignment 3: Advanced CSS
+# Assignment 3: Advanced CSS
 
 This assignment will help you practice more advanced CSS concepts, as well as get more comfortable with more complex HTML in multi-page sites. 
 
@@ -31,11 +31,11 @@ The screenshots for completing this assignment are here:
 
 `Homepage`
 
-![Homepage](https://www.dropbox.com/s/7rz6tuppcss229l/Screenshot%202014-10-24%2012.09.18.png?dl=0)
+![Homepage](http://www.dropbox.com/s/7rz6tuppcss229l/Screenshot%202014-10-24%2012.09.18.png)
 
 `Recipe Page`
 
-![Recipe Page](https://www.dropbox.com/s/2co1amln5rfuxh4/Screenshot%202014-10-24%2012.21.22.png?dl=0)
+![Recipe Page](http://www.dropbox.com/s/2co1amln5rfuxh4/Screenshot%202014-10-24%2012.21.22.png)
 
 ## Colors
 
