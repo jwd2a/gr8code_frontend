@@ -31,7 +31,7 @@ The screenshots for completing this assignment are here:
 
 `Homepage`
 
-![Homepage](http://dl.dropbox.com/s/7rz6tuppcss229l/Screenshot%202014-10-24%2012.09.18.png)
+![Homepage](https://dl.dropbox.com/s/94h4zg209nh2hxi/Screenshot%202014-10-24%2013.02.42.png)
 
 `Recipe Page`
 
