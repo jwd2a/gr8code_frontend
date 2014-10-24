@@ -53,6 +53,12 @@ The screenshots for completing this assignment are here:
 - Recipe button height: 30px
 - Image width: 100px
 
+## Resources
+
+Here are some links and resources that might help out.
+
+- [Smashing Magazine article about floats and clears](http://www.smashingmagazine.com/2009/10/19/the-mystery-of-css-float-property/)
+
 You can guess on the other sizes for padding, margin, heights and width. Just get it close enough to the screenshot.
 
 
