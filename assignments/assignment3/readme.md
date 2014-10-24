@@ -31,11 +31,11 @@ The screenshots for completing this assignment are here:
 
 `Homepage`
 
-![Homepage](http://www.dropbox.com/s/7rz6tuppcss229l/Screenshot%202014-10-24%2012.09.18.png)
+![Homepage](http://dl.dropbox.com/s/7rz6tuppcss229l/Screenshot%202014-10-24%2012.09.18.png)
 
 `Recipe Page`
 
-![Recipe Page](http://www.dropbox.com/s/2co1amln5rfuxh4/Screenshot%202014-10-24%2012.21.22.png)
+![Recipe Page](http://dl.dropbox.com/s/2co1amln5rfuxh4/Screenshot%202014-10-24%2012.21.22.png)
 
 ## Colors
 
