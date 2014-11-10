@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+</head>
+
+<body>
+
+    <button id="sayHello">Say Hello</button>
+
+</body>
+
+
+<script>
+//functions
+var pat = {
+    name: "Patrick",
+    greet: function(name) {
+        console.log(name);
+    }
+}
+
+function logMyName() {
+    console.log(pat.name)
+}
+
+function sayHello() {
+    console.log("Hello " + pat.name);
+}
+
+function pickFromArray(index) {
+    console.log(names[index]);
+}
+
+
+//event listeners
+
+document.getElementById("sayHello").addEventListener("click", function() {
+    pickFromArray("1");
+});
+</script>
+
+</html>
