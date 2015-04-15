@@ -14,3 +14,6 @@ Give your header and footer background colors, remembering to make the fonts leg
 
 All files should be appropriately separated.
 
+## It should look something like this:
+
+!(https://dl.dropbox.com/s/fxriya3lag5tyk9/Screenshot%202015-04-14%2022.09.53.png?dl=0)
